@@ -1,0 +1,23 @@
+.menuadvertising{
+    background-color: cadetblue;
+    margin:0;
+    display:flex;
+    justify-content: flex-end;
+    
+}
+.menuadvertising a{
+text-decoration: none;
+padding: 25px;
+color:white;
+}
+.menuadvertising a:hover{
+    background-color: gray;
+}
+footer {
+    margin-top: 473px;
+    text-align: center;
+    padding: 10px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+

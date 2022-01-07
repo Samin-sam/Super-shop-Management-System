@@ -1,0 +1,114 @@
+[
+    {
+        "Product_ID": "A7",
+        "Product_Name": "Black Paper",
+        "Product_Price": "23",
+        "Product_Quantity": "34",
+        "Product_Type": "Produce: Fruits & Vegetables",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "D1",
+        "Product_Name": "cola",
+        "Product_Price": "89",
+        "Product_Quantity": "45",
+        "Product_Type": "Beverages",
+        "Product_E_Date": "2021-10-12"
+    },
+    {
+        "Product_ID": "c2",
+        "Product_Name": "panta",
+        "Product_Price": "89",
+        "Product_Quantity": "65",
+        "Product_Type": "Beverages",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "c3",
+        "Product_Name": "lemon",
+        "Product_Price": "50",
+        "Product_Quantity": "23",
+        "Product_Type": "Produce: Fruits & Vegetables",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "f1",
+        "Product_Name": "sweet",
+        "Product_Price": "650",
+        "Product_Quantity": "210",
+        "Product_Type": "Dairy, Eggs & Cheese",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "M1",
+        "Product_Name": "Meat",
+        "Product_Price": "650",
+        "Product_Quantity": "23",
+        "Product_Type": "Meat & Seafood",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "M2",
+        "Product_Name": "Mutton Meat",
+        "Product_Price": "750",
+        "Product_Quantity": "52",
+        "Product_Type": "Meat & Seafood",
+        "Product_E_Date": "2021-10-18"
+    },
+    {
+        "Product_ID": "M3",
+        "Product_Name": "Bon Merrow",
+        "Product_Price": "950",
+        "Product_Quantity": "12",
+        "Product_Type": "Meat & Seafood",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "G1",
+        "Product_Name": "Letus",
+        "Product_Price": "25",
+        "Product_Quantity": "12",
+        "Product_Type": "Produce: Fruits & Vegetables",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "G2",
+        "Product_Name": "cucomber",
+        "Product_Price": "21",
+        "Product_Quantity": "12",
+        "Product_Type": "Produce: Fruits & Vegetables",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "X1",
+        "Product_Name": "chili",
+        "Product_Price": "45",
+        "Product_Quantity": "21",
+        "Product_Type": "Produce: Fruits & Vegetables",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "S1",
+        "Product_Name": "Rice",
+        "Product_Price": "213",
+        "Product_Quantity": "23",
+        "Product_Type": "Produce: Fruits & Vegetables",
+        "Product_E_Date": "2021-10-25"
+    },
+    {
+        "Product_ID": "A12",
+        "Product_Name": "Green Chilli",
+        "Product_Price": "21",
+        "Product_Quantity": "12",
+        "Product_Type": "Produce: Fruits & Vegetables",
+        "Product_E_Date": "2021-10-13"
+    },
+    {
+        "Product_ID": "F2",
+        "Product_Name": "Banana",
+        "Product_Price": "21",
+        "Product_Quantity": "365",
+        "Product_Type": "Produce: Fruits & Vegetables",
+        "Product_E_Date": "2021-12-05"
+    }
+]

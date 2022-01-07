@@ -1,0 +1,32 @@
+[
+    {
+        "username": "sam5",
+        "email": "sam42@gmail.com",
+        "password_1": "sam4",
+        "password_2": "sam4"
+    },
+    {
+        "username": "sam6",
+        "email": "sam6@gmail.com",
+        "password_1": "sam7",
+        "password_2": "sam7"
+    },
+    {
+        "username": "mahmud",
+        "email": "mh@gmail.com",
+        "password_1": "1234",
+        "password_2": "1234"
+    },
+    {
+        "username": "sama",
+        "email": "sam@gmail.com",
+        "password_1": "1245",
+        "password_2": "1245"
+    },
+    {
+        "username": "sam10",
+        "email": "sam32@gmail.com",
+        "password_1": "1212",
+        "password_2": "1212"
+    }
+]

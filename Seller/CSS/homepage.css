@@ -1,0 +1,50 @@
+.menu{
+    background-color: cadetblue;
+    margin:0;
+    display:flex;
+    justify-content: flex-end;
+    position: relative;
+}
+.menu a{
+text-decoration: none;
+padding: 25px;
+color:white;
+}
+.menu a:hover{
+    background-color: gray;
+}
+footer {
+    margin-top: 473px;
+    text-align: center;
+    padding: 10px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+#img1, #img2, #img3{
+    margin-top: 40px;
+    margin-left: 330px;
+    padding-top: 5px;
+    padding-left: 5px;
+    
+    
+}
+#button1{
+    background-color: #13445D; 
+    color: white;
+    margin-left: 630px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 10px;
+    align-items: center;
+}
+.button2{
+    background-color: #13445D; 
+    color: white; 
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 10px;
+    align-items: center;
+    margin-right: 40px;
+
+}
+

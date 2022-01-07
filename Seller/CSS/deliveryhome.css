@@ -1,0 +1,35 @@
+
+.menudelivery{
+
+    background-color: #73a24e;
+    display:flex;
+    justify-content: flex-start;
+}
+.menudelivery a{
+text-decoration: none;
+padding: 25px;
+color:white;
+}
+.menudelivery #an1{
+    text-decoration: wavy;
+    color: #f5eec2;
+    text-shadow: cadetblue;
+    
+}
+.menudelivery a:hover{
+    background-color: #95a5a6;
+}
+footer {
+    margin-top: 473px;
+    text-align: center;
+    padding: 10px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+  *{
+      background-image: url("../Images/van.jpg");
+  }
+  h4{
+      background-color: #95a5a6;
+      
+  }
